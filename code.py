@@ -26,4 +26,4 @@ def ini_to_excel_csv(ini_file_path, excel_csv_path):
             csv_writer.writerow(row)
 
 # Example usage:
-ini_to_excel_csv('D:\personal\Python\trial\preprocess.ini', 'output.csv')
+ini_to_excel_csv("D:\Python\trial\preprocess.ini", 'output.csv')
